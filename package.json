@@ -1,0 +1,27 @@
+{
+  "name": "bleepbloop",
+  "version": "1.0.0",
+  "description": "Création d'un bot Discord pour un serveur privé entre amis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "enmap": "^5.8.7",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://github.com/Ellis-98/Bot-Discord"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "Template",
+    "Discord",
+    "javascript"
+  ]
+}
